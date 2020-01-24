@@ -1,0 +1,5 @@
+Autosave ON
+Render whitespace NONE
+
+Vertical Rulers:
+* https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code

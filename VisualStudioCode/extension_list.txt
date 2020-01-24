@@ -1,0 +1,12 @@
+Docker
+Excel Viewer
+Go
+Indenticator
+Markdown All in One
+Markdown PDF
+Markdown Preview Github Styling
+markdownlint
+Monokai ST3
+Python
+Spanish Language Pack for Visual Studio Code
+XML to JSON

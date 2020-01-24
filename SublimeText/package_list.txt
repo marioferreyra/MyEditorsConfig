@@ -1,0 +1,11 @@
+Dockerfile Syntax Highlighting
+HTMLBeautify
+Language - Spanish
+Markdown Extended
+MarkdownPreview
+Package Control
+Pandoc
+Seti_UI
+SFTP
+SublimeLinter
+SublimeLinter-flake8
