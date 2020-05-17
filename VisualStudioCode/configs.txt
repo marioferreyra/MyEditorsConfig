@@ -1,5 +1,16 @@
-Autosave ON
+Autosave afterDelay
 Render whitespace NONE
 
 Vertical Rulers:
 * https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code
+
+
+En settings.json
+{
+    "[git-commit]": {"editor.rulers": [50]},
+    "[python]": {
+        "editor.rulers": [
+            79
+        ]
+    }
+}

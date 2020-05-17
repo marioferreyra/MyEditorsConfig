@@ -1,11 +1,11 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"dictionary": "Packages/Language - Spanish/es_ES.dic",
-	"draw_white_space": "all",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"dictionary": "Packages/Language - Spanish/es_ES.dic",
+	"draw_white_space": "all",
 	"rulers":
 	[
 		79
