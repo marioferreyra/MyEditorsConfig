@@ -1,5 +1,6 @@
 Docker
 Excel Viewer
+GitHub Pull Requests and Issues
 Go
 Indenticator
 Markdown All in One
@@ -7,6 +8,10 @@ Markdown PDF
 Markdown Preview Github Styling
 markdownlint
 Monokai ST3
+OpenAPI (Swagger) Editor
+PlantUML
 Python
+Reload
 Spanish Language Pack for Visual Studio Code
+Swagger Viewer
 XML to JSON
