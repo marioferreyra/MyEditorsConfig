@@ -3,6 +3,7 @@ Excel Viewer
 GitHub Pull Requests and Issues
 Go
 Indenticator
+Jupyter
 Markdown All in One
 Markdown PDF
 Markdown Preview Github Styling
@@ -15,3 +16,5 @@ Reload
 Spanish Language Pack for Visual Studio Code
 Swagger Viewer
 XML to JSON
+Prettify JSON
+YAML
