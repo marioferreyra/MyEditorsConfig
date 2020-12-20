@@ -10,3 +10,4 @@ SFTP
 SublimeLinter
 SublimeLinter-flake8
 xml2json
+Pretty JSON
